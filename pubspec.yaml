@@ -43,6 +43,7 @@ dependencies:
   cloud_firestore: ^4.17.0 # Use the latest version
   firebase_auth: ^4.17.0  # Use the latest version
   firebase_storage: ^11.0.0 # Use the latest version
+  firebase_database: 10.5.7 
   
 
 
