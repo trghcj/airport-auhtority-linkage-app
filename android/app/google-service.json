@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "707290062868",
+    "firebase_url": "https://airport-authority-linkage-default-rtdb.firebaseio.com",
+    "project_id": "airport-authority-linkage",
+    "storage_bucket": "airport-authority-linkage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707290062868:android:a40d8677fcb623535f0701",
+        "android_client_info": {
+          "package_name": "com.example.airport_authority_linkage_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA00IotYbh9VbEzKtw9Qn1Gr0-LLqlc-T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
